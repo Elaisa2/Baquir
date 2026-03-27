@@ -83,3 +83,4 @@ D:\Elaisa\Portfolio\obj\Debug\net10.0\refint\Portfolio.dll
 D:\Elaisa\Portfolio\obj\Debug\net10.0\Portfolio.pdb
 D:\Elaisa\Portfolio\obj\Debug\net10.0\Portfolio.genruntimeconfig.cache
 D:\Elaisa\Portfolio\obj\Debug\net10.0\ref\Portfolio.dll
+D:\Elaisa\Portfolio\obj\Debug\net10.0\Portfolio.sourcelink.json
