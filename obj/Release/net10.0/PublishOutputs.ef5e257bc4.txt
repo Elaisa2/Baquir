@@ -1,0 +1,7 @@
+C:\Users\aspir\OneDrive\Desktop\Baquir\Baquir\publish\Portfolio.exe
+C:\Users\aspir\OneDrive\Desktop\Baquir\Baquir\publish\appsettings.Development.json
+C:\Users\aspir\OneDrive\Desktop\Baquir\Baquir\publish\appsettings.json
+C:\Users\aspir\OneDrive\Desktop\Baquir\Baquir\publish\Portfolio.dll
+C:\Users\aspir\OneDrive\Desktop\Baquir\Baquir\publish\Portfolio.runtimeconfig.json
+C:\Users\aspir\OneDrive\Desktop\Baquir\Baquir\publish\Portfolio.pdb
+C:\Users\aspir\OneDrive\Desktop\Baquir\Baquir\publish\Portfolio.deps.json

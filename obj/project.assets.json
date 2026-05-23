@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net10.0": {
-      "Microsoft.AspNetCore.App.Internal.Assets/10.0.4": {
+      "Microsoft.AspNetCore.App.Internal.Assets/10.0.6": {
         "type": "package",
         "build": {
           "build/Microsoft.AspNetCore.App.Internal.Assets.props": {},
@@ -15,10 +15,10 @@
     }
   },
   "libraries": {
-    "Microsoft.AspNetCore.App.Internal.Assets/10.0.4": {
-      "sha512": "M942X5Vy726SlvFBuoAC4cDczEMlPAFt1mmyFlrkw/QcpdVwVU0DkF4P9JabxX6eWNm9RvaYZHe25FN7oXoxpQ==",
+    "Microsoft.AspNetCore.App.Internal.Assets/10.0.6": {
+      "sha512": "3jRLKtAXwSCVDX0vUmGTDwcbSmL05jtf5vUHB9QXpw3wDbT0qU0dUJyKAOKgvwW3j0FI+aHHMbKIZCM63SPkOA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.app.internal.assets/10.0.4",
+      "path": "microsoft.aspnetcore.app.internal.assets/10.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -34,30 +34,30 @@
         "build/Microsoft.AspNetCore.App.Internal.Assets.targets",
         "buildMultiTargeting/Microsoft.AspNetCore.App.Internal.Assets.targets",
         "buildTransitive/Microsoft.AspNetCore.App.Internal.Assets.targets",
-        "microsoft.aspnetcore.app.internal.assets.10.0.4.nupkg.sha512",
+        "microsoft.aspnetcore.app.internal.assets.10.0.6.nupkg.sha512",
         "microsoft.aspnetcore.app.internal.assets.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.4"
+      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.6"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bossf\\.nuget\\packages\\": {}
+    "C:\\Users\\aspir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Elaisa\\Portfolio\\Portfolio.csproj",
+      "projectUniqueName": "C:\\Users\\aspir\\OneDrive\\Desktop\\Baquir\\Baquir\\Portfolio.csproj",
       "projectName": "Portfolio",
-      "projectPath": "D:\\Elaisa\\Portfolio\\Portfolio.csproj",
-      "packagesPath": "C:\\Users\\bossf\\.nuget\\packages\\",
-      "outputPath": "D:\\Elaisa\\Portfolio\\obj\\",
+      "projectPath": "C:\\Users\\aspir\\OneDrive\\Desktop\\Baquir\\Baquir\\Portfolio.csproj",
+      "packagesPath": "C:\\Users\\aspir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aspir\\OneDrive\\Desktop\\Baquir\\Baquir\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bossf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\aspir\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -81,7 +81,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0": {
@@ -90,7 +90,7 @@
           "Microsoft.AspNetCore.App.Internal.Assets": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[10.0.4, )",
+            "version": "[10.0.6, )",
             "autoReferenced": true
           }
         },
@@ -113,7 +113,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

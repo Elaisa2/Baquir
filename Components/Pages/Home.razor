@@ -1,7 +1,58 @@
-﻿@page "/"
+@page "/"
 
-<PageTitle>Home</PageTitle>
+<PageTitle>Elaisa Baquir | Portfolio</PageTitle>
 
-<h1>Hello, world!</h1>
+<section class="hero-section">
+    <div class="hero-copy">
+        <p class="eyebrow">2nd Year BSIT Student</p>
+        <h1>Hi, I am Elaisa Baquir.</h1>
+        <p class="hero-intro">
+            I am an Information Technology student building a foundation in web development,
+            programming, database design, and user-focused digital solutions.
+        </p>
 
-Welcome to your new app.
+        <div class="hero-actions">
+            <a class="btn-primary-soft" href="projects">View Projects</a>
+            <a class="btn-outline-soft" href="contact">Contact Me</a>
+        </div>
+    </div>
+
+    <div class="profile-card" aria-label="Profile photo of Elaisa Baquir">
+        <div class="profile-photo-wrap">
+            <img src="baquir.jpg"
+                 alt="Elaisa Baquir"
+                 class="profile-photo"
+                 onerror="this.hidden=true; this.nextElementSibling.hidden=false" />
+            <div class="profile-fallback" hidden>EB</div>
+        </div>
+        <div>
+            <h2>Elaisa Baquir</h2>
+            <p>Future IT professional with a growing interest in clean interfaces and practical systems.</p>
+        </div>
+    </div>
+</section>
+
+<section class="section-block">
+    <div class="section-heading">
+        <p class="eyebrow">What I Do</p>
+        <h2>Learning by building simple, useful projects.</h2>
+    </div>
+
+    <div class="feature-grid">
+        <article class="feature-card">
+            <span>01</span>
+            <h3>Web Development</h3>
+            <p>Creating responsive pages with HTML, CSS, C#, and Blazor fundamentals.</p>
+        </article>
+        <article class="feature-card">
+            <span>02</span>
+            <h3>Programming</h3>
+            <p>Practicing logic, problem solving, and clean code through school activities.</p>
+        </article>
+        <article class="feature-card">
+            <span>03</span>
+            <h3>UI Basics</h3>
+            <p>Designing simple layouts that are easy to read, navigate, and use.</p>
+        </article>
+    </div>
+</section>
